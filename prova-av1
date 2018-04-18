@@ -8,7 +8,7 @@ Com relação aos comandos do SO Linux, responda as perguntas abaixo:
 
 0 - Vá para a pasta labso.2018.1.av1 (esta será a pasta principal da prova)
 
-1- Copie o arquivo prova-av1.txt para dentro da pasta principal.
+1- Utilizando um comando linux, visualize todo o conteúdo do arquivo prova-av1.txt.
 Resposta (Qual comando você utilizou?):  
 
 2 - Vá para a pasta1. Usando o comando ls -lR, liste todas as pastas e subpastas a partir da "home" e direcione para um arquivo chamado lista.txt.
