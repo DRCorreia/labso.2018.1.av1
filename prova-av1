@@ -1,0 +1,56 @@
+Aluno: (Nome Aluno) matricula:(000000000000)
+Prova de Laboratorio de Sistemas Operacionais
+Professor: Alex Salgado
+1o. Semestre de 2018   Turno: Noite            AV1
+--------------------------------------------------
+Com relação aos comandos do SO Linux, responda as perguntas abaixo:
+
+
+0 - Vá para a pasta labso.2018.1.av1 (esta será a pasta principal da prova)
+
+1- Copie o arquivo prova-av1.txt para dentro da pasta principal.
+Resposta (Qual comando você utilizou?):  
+
+2 - Vá para a pasta1. Usando o comando ls -lR, liste todas as pastas e subpastas a partir da "home" e direcione para um arquivo chamado lista.txt.
+Resposta (Qual comando você utilizou?):  
+
+3 - Renomear o arquivo lista.txt para listagem-(seunome).txt 
+Resposta (Qual comando você utilizou?):  
+
+4 - Vá para a pasta2. Crie 3 arquivos em branco que comecem com seu nome e termina com uma
+sequencia 1, 2 e 3.
+Ex.: alex1.txt, alex2.txt, alex3.txt. Que comandos você utilizou?
+Resposta (Qual comando você utilizou?):  
+
+5 - Vá para pasta principal. Crie 1 pasta com seu nome+diadenascimento (ex.:alex25) e copie os
+3 arquivos criandos anteriormente para esta pasta.
+Resposta (Qual comando você utilizou?):  
+
+6 - Utilizando wildcards, qual o comando para listar todos os arquivos
+que comecem com seu nome e termina com o numeral de 1 a 3 com extensão .txt?
+Resposta (Qual comando você utilizou?):  
+
+7 - Vá para a pasta4/log. 
+7.1 - Edite o arquivo linhas.txt e substitua com SEUNOME na linha correspondende.
+Resposta (qual comando você utilizou para abrir o arquivo? ):
+
+7.2 - Execute o programa python editado direcionando a saida para um arquivo chamado linhas.txt
+Resposta (qual comando você utilizou? ):
+
+7.3 - Combinando comandos com o uso do pipe, exiba as linhas 400-450 do arquvi gerado acima
+Resposta (qual comando você utilizou? ):
+
+
+8 - Vá para a pasta principal
+8.1 - Mostre qual é a pasta atual? 
+Resposta (qual comando você utilizou? ):
+
+8.2 - A partir da pasta atual, procure por todos os arquivos com extensão txt com tamanho maior que 0k
+Resposta (qual comando você utilizou? ):
+
+9 - Procure por todos os arquivos com tamanho maior que 10k.
+Resposta 1 (qual comando você utilizou? ):
+
+Resposta 2 (qual foi o arquivo encontrado ? ):
+
+10 - Vá até a pastafinal e siga as instruções contidas no arquivo txt que se encontra dentro desta pasta.
